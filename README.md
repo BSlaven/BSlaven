@@ -16,6 +16,11 @@ const frontendDeveloper = {
     'Node',
     'Express'
     'MongoDB'    
+  ],
+  futureInterests: [
+    'Python',
+    'DBs',
+    'Cloud'
   ]
 ```
 
