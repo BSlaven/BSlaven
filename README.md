@@ -18,18 +18,14 @@ const frontendDeveloper = {
     'MongoDB'    
   ]
 ```
-- My name is Slaven Bunijevac.
-
-- I am a frontend developer from Bosnia and Herzegovina.
-
-- I mainly work with web stack HTML, CSS, JavaScript, and React as a library of choice.
-
-## Future Interests
-- **Node**
-- **Python**
-- **DBs**
-- **Cloud**
 
 ### Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BSlaven)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img width="48%"
+   src="https://github-readme-stats.vercel.app/api?username=BSlaven&show_icons=true&theme=react" 
+/>  
+<img width="48%"
+   src="https://github-readme-streak-stats.herokuapp.com/?user=BSlaven&theme=react" 
+/>
+</p>
