@@ -1,16 +1,16 @@
 # A Little About Me:
 
-My name is Slaven Bunijevac.
+- My name is Slaven Bunijevac.
 
-I am a frontend developer from Bosnia and Herzegovina.
+- I am a frontend developer from Bosnia and Herzegovina.
 
-I mainly work with web stack HTML, CSS, JavaScript, and React as a library of choice.
+- I mainly work with web stack HTML, CSS, JavaScript, and React as a library of choice.
 
 ## Future Interests
-- Node
-- Python
-- DBs
-- Cloud
+- #### Node
+- #### Python
+- #### DBs
+- #### Cloud
 
 #### Stats:
 
