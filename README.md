@@ -10,7 +10,12 @@ const frontendDeveloper = {
     'React',
     'Git',
     'React-Testing-Library',
-    'Jest'    
+    'Jest',
+  ],
+  knowledgeOf: [
+    'Node',
+    'Express'
+    'MongoDB'    
   ]
 ```
 - My name is Slaven Bunijevac.
