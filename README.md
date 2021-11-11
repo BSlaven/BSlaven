@@ -23,10 +23,8 @@ const frontendDeveloper = {
     'Python',
     'DBs',
     'Cloud'
-  ],
-  portfolio: [Portfolio Website](https://slaven-bunijevac.netlify.app/),
-  linkedin: [Linkedin Profile](https://www.linkedin.com/in/slaven-bunijevac-2a0834192/)
- }
+  ]
+}
 ```
 
 ### Stats:
