@@ -8,12 +8,12 @@ const frontendDeveloper = {
     'CSS3',
     'JavaScript',
     'React',
-    'Git',
-    'React-Testing-Library',
-    'Jest',
+    'Redux',
+    'Git'
   ],
   basicUnderstanding: [
-    'Redux',
+    'React-Testing-Library',
+    'Jest',
     'Typescript',
     'Node',
     'Express'
