@@ -15,6 +15,7 @@ const frontendDeveloper = {
     'React-Testing-Library',
     'Jest',
     'Typescript',
+    'Angular',
     'Node',
     'Express'
     'MongoDB'    
