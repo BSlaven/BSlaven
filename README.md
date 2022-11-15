@@ -14,8 +14,9 @@ const frontendDeveloper = {
   basicUnderstanding: [
     'React-Testing-Library',
     'Jest',
-    'Typescript',
+    'TypeScript',
     'Angular',
+    'Sass',
     'Node',
     'Express'
     'MongoDB'    
