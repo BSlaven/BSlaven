@@ -1,5 +1,3 @@
-|:----:|:----:|
-
 # A Little About Me:
 ```js
 const frontendDeveloper = {
