@@ -19,7 +19,8 @@ const frontendDeveloper = {
     'Sass',
     'Node',
     'Express'
-    'MongoDB'    
+    'MongoDB',
+    'Flutter'
   ],
   futureInterests: [
     'Python',
