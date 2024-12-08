@@ -8,6 +8,7 @@ const frontendDeveloper = {
     'CSS3',
     'JavaScript',
     'React',
+    'NextJS'
     'Redux',
     'Git'
   ],
