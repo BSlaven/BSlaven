@@ -26,7 +26,8 @@ const frontendDeveloper = {
   futureInterests: [
     'Python',
     'DBs',
-    'Cloud'
+    'Cloud',
+    'Native'
   ]
 }
 ```
